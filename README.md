@@ -1,8 +1,22 @@
-# movie-ticket-booking
-Movie Ticket Booking using HTML, CSS &amp; 
-JS Project Breakdown 
-Display UI with movie select, screen, seats, legend &amp;
-seat info User can select a movie/price;
-User can select/deselect multiple seats;
-User can't select occupied seats;
-Number of seats and price will update based on selecet.
+# Movie Ticket Booking Project
+
+## Description
+
+A web-based movie ticket booking system, allowing users to browse movies, select seats, and book tickets online.
+
+## Technologies Used
+
+* Front-end: HTML, CSS, JavaScript
+* UI/UX Design: Responsive design for a seamless user experience
+* Hosting: GitHub Pages
+
+## Features
+
+* Browse movies and showtimes
+* Select seats and book tickets
+* User-friendly interface
+
+## Contributions
+
+* Designed and developed by Manas Tiwari
+.
